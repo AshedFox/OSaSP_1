@@ -10,10 +10,6 @@
 #define IDI_SMALL                       108
 #define IDC_WINDOWSPROJECT1             109
 #define IDR_MAINFRAME                   128
-#define IDB_BITMAP1                     133
-#define IDB_PNG1                        134
-#define IDI_ICON1                       135
-#define IDR_ICO_PNG1                    136
 #define IDI_ICON2                       137
 #define IDC_STATIC                      -1
 

@@ -54,9 +54,6 @@
     <Image Include="WindowsProject1.ico">
       <Filter>Файлы ресурсов</Filter>
     </Image>
-    <Image Include="bitmap1.bmp">
-      <Filter>Файлы ресурсов</Filter>
-    </Image>
     <Image Include="icon2.ico">
       <Filter>Файлы ресурсов</Filter>
     </Image>
